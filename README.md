@@ -27,7 +27,8 @@
 - 🌱 I’m currently learning Software Design
 
 ## Visitors
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=SreekanthJaladanki&left_color=blue&right_color=green&style=for-the-badge)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/SreekanthJaladanki/visits)
+
 
 <!--
 **SreekanthJaladanki/SreekanthJaladanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
