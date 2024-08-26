@@ -1,4 +1,7 @@
 ## Hi there 👋
+## My GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SreekanthJaladanki&theme=dark&hide_border=true)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SreekanthJaladanki/SreekanthJaladanki)
 <!--
 **SreekanthJaladanki/SreekanthJaladanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
