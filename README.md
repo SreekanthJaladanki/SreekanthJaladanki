@@ -18,12 +18,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SreekanthJaladanki&theme=dark&hide_border=true)
 
-## Visitors
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=SreekanthJaladanki&left_color=blue&right_color=green&style=for-the-badge)
 
 - 🔭 I’m currently working on Cloud & DevOps
 - 📫 How to reach me: sreekanthjaladanki@gmail.com
 - 🌱 I’m currently learning Software Design
+
+## Visitors
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=SreekanthJaladanki&left_color=blue&right_color=green&style=for-the-badge)
+
 <!--
 **SreekanthJaladanki/SreekanthJaladanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
