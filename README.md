@@ -14,6 +14,9 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+![GitHub Stars](https://img.shields.io/github/stars/SreekanthJaladanki/SreekanthJaladanki?color=brightgreen&style=for-the-badge)
+
 ## My GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SreekanthJaladanki&theme=dark&hide_border=true)
