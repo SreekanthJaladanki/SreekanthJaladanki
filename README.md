@@ -26,7 +26,7 @@
 - 📫 How to reach me: sreekanthjaladanki@gmail.com
 - 🌱 I’m currently learning Software Design
 
-## Visitors
+## Visitors Count
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SreekanthJaladanki.SreekanthJaladanki)
 
 <!--
