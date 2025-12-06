@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sreekanth!
-I'm passionate about Cloud and DevOps and enjoy solving challenges in software design.
+Technology educator and builder with strong experience in AWS, DevOps tools, and GenAI. I love mentoring professionals and creating scalable applications for modern digital needs.
 
 ## Skills
 
